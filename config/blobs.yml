@@ -1,0 +1,37 @@
+---
+go-buildpack/go_buildpack-cached-v1.7.17-8c7f99a.zip:
+  object_id: go_buildpack-cached-v1.7.17-8c7f99a.zip
+  sha: 8c7f99ad6b568ad43bf94b646db6ad181baea51e
+  size: 411045991
+java-buildpack/java-buildpack-v3.14-f292936.zip:
+  object_id: java-buildpack-v3.14-f292936.zip
+  sha: f2929367df8afbafa43f7108e24f268215024022
+  size: 181246
+java-buildpack/java-buildpack-offline-v3.14-2c7c83e.zip:
+  object_id: java-buildpack-offline-v3.14-2c7c83e.zip
+  sha: 2c7c83ef6f15b825084b61d7bcdff9490fb701b7
+  size: 260912823
+nodejs-buildpack/nodejs_buildpack-cached-v1.5.31-f2bb59c.zip:
+  object_id: nodejs_buildpack-cached-v1.5.31-f2bb59c.zip
+  sha: f2bb59cc7e8a778ada4d3c34948fb2f17c88c894
+  size: 92374788
+rootfs/opensusefs2-1.102.0-6383412.tar.gz:
+  object_id: opensusefs2-1.102.0-6383412.tar.gz
+  sha: 63834122fe6bfb38ec1f4231703c924f67239657
+  size: 339541824
+php-buildpack/php_buildpack-cached-v4.3.27-6c1445f.zip:
+  object_id: php_buildpack-cached-v4.3.27-6c1445f.zip
+  sha: 6c1445f1df306723c50f8a14e45bc02f4b72b95b
+  size: 478266147
+python-buildpack/python_buildpack-cached-v1.5.16-05d4739.zip:
+  object_id: python_buildpack-cached-v1.5.16-05d4739.zip
+  sha: 05d4739b8099e2d8587d76f2f2b6066b46f9eaec
+  size: 338977197
+ruby-buildpack/ruby_buildpack-cached-v1.6.34-7b82935.zip:
+  object_id: ruby_buildpack-cached-v1.6.34-7b82935.zip
+  sha: 7b82935b4dc10d249913835a4f0c7e4e29492da8
+  size: 321904886
+staticfile-buildpack/staticfile_buildpack-cached-v1.3.18-4a1a2d6.zip:
+  object_id: staticfile_buildpack-cached-v1.3.18-4a1a2d6.zip
+  sha: 4a1a2d6222b89df996526fcf32554df6fadf6572
+  size: 5401970

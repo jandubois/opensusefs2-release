@@ -1,0 +1,2 @@
+#!/bin/sh
+cat src/*/config/blobs.yml | perl -ne 'print unless /---/ && $. > 1' > config/blobs.yml
