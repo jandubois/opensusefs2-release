@@ -1,0 +1,27 @@
+[submodule "src/opensusefs2-rootfs-release"]
+	path = src/opensusefs2-rootfs-release
+	url = git@github.com:jandubois/opensusefs2-rootfs-release.git
+[submodule "src/ruby-buildpack-release"]
+	path = src/ruby-buildpack-release
+	url = git@github.com:jandubois/ruby-buildpack-release.git
+[submodule "src/php-buildpack-release"]
+	path = src/php-buildpack-release
+	url = git@github.com:jandubois/php-buildpack-release.git
+[submodule "src/java-offline-buildpack-release"]
+	path = src/java-offline-buildpack-release
+	url = git@github.com:jandubois/java-offline-buildpack-release.git
+[submodule "src/java-buildpack-release"]
+	path = src/java-buildpack-release
+	url = git@github.com:jandubois/java-buildpack-release.git
+[submodule "src/python-buildpack-release"]
+	path = src/python-buildpack-release
+	url = git@github.com:jandubois/python-buildpack-release.git
+[submodule "src/staticfile-buildpack-release"]
+	path = src/staticfile-buildpack-release
+	url = git@github.com:jandubois/staticfile-buildpack-release.git
+[submodule "src/go-buildpack-release"]
+	path = src/go-buildpack-release
+	url = git@github.com:jandubois/go-buildpack-release.git
+[submodule "src/nodejs-buildpack-release"]
+	path = src/nodejs-buildpack-release
+	url = git@github.com:jandubois/nodejs-buildpack-release.git
